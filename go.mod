@@ -38,7 +38,7 @@ replace (
 	k8s.io/api => k8s.io/api v0.23.1
 	k8s.io/apimachinery => k8s.io/apimachinery v0.23.1
 	k8s.io/apiserver => k8s.io/apiserver v0.23.1
-	k8s.io/client-go => k8s.io/client-go v0.23.1
+	k8s.io/client-go => github.com/lvxiafei/client-go v0.23.2-0.20231117073924-c56eb460920c
 	k8s.io/code-generator => k8s.io/code-generator v0.23.1
 	k8s.io/component-base => k8s.io/component-base v0.23.1
 )
